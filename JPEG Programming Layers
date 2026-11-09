@@ -1,0 +1,12 @@
+JPEG Programming Layers
+
+My topic is ChatGPT as a coding partner. I will test how well ChatGPT can solve 20 beginner-level programming problems.
+I will give ChatGPT twenty programming tasks that come from LeetCode Easy-level questions. These tasks will include arrays, strings, loops, sorting, searching, and simple logic. I will test each solution to see whether ChatGPT answers on the first try. I will record the results. Calculate ChatGPT's overall accuracy. I will also look for mistakes, such as logic errors, indexing errors, and failures to handle special cases.
+
+This topic matters because many students and programmers use ChatGPT to help them write and understand code. ChatGPT can save time, explain concepts and help beginners learn programming. However AI-generated code is not always correct. Sometimes the code looks right. Fails when tested with inputs.
+By testing ChatGPT with twenty programming problems I can understand how reliable ChatGPT is as a coding assistant. This research will also show why programmers should test and review AI-generated code of trusting every answer. ChatGPT should help people learn programming, not replace their problem-solving skills.
+
+
+How accurately can ChatGPT solve twenty beginner-level programming problems on its attempt and what coding mistakes does ChatGPT make often?
+I will give ChatGPT each problem without hints. Test its solution. Each correct solution will receive one point while incorrect solutions will receive zero points. I will calculate ChatGPTs accuracy by dividing the number of answers by twenty.
+Finally I will discuss which types of problems ChatGPT handles well and where ChatGPT struggles. The goal is to determine whether ChatGPT is a coding partner, for beginner programmers.
